@@ -1,4 +1,4 @@
-name: OrangeFox - Build
+name: OFRP - Redmi Fog
 
 on:
   workflow_dispatch:
